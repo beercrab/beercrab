@@ -10,7 +10,7 @@
 
 我是一个擅长计算机网络的技术从业人员，如果你问我网络技术如何掌握，我认为在问这个问题前，先理解下互联网的根基**TCP/IP**
 - 问：“最实用和通用的网络技术是什么？”
-- 答：“防火墙”,涉及以下协议和技术
+- 答：“防火墙”,主要涉及以下协议和技术
   - HTTP
   - DNS
   - TLS
@@ -19,7 +19,6 @@
   - VPN
   - WireShark
   - IP Routing
-    - Dynamic Routing
     - Default Routing
     - Direct Routing
     - Static Routing
