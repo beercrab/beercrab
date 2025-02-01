@@ -9,12 +9,22 @@
 - 主观和客观不确定时，可以采取投票方式，少数服从多数
 
 我是一个擅长计算机网络的技术从业人员，如果你问我网络技术如何掌握，我认为在问这个问题前，先理解下互联网的根基**TCP/IP**
-- Q 最实用和通用的网络技术是什么？
-- A ：
+- 问：“最实用和通用的网络技术是什么？”
+- 答：“防火墙”,涉及以下协议和技术
   - HTTP
   - DNS
   - TLS
   - TCP/UDP
   - IP(VLSM/CIDR)
+  - VPN
   - WireShark
+  - IP Routing
+    - Dynamic Routing
+    - Default Routing
+    - Direct Routing
+    - Static Routing
+  - Packet Filter
+  - NAT（DNAT/SNAT）
+  - 基于策略的路由转发
+
 
