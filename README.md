@@ -16,5 +16,7 @@
 
 > 有条件的可以再掌握OSPF和BGP基本配置会更有优势
 
+[更多内容请访问](https://github.com/beercrab/beercrab/issues)
+
 
 
