@@ -14,7 +14,7 @@
 - Q.如何进行**网络防火墙技术**的实践，
 - A.请从**Debian/Linux**配置正确的**IPTABLES**表和链开始
 
-> 有条件的可以再掌握OSPF和BGP基本配置会更有优势
+> 网络是否重要？先把网连上再评论是否重要
 
 [更多内容请访问](https://github.com/beercrab/beercrab/issues)
 
